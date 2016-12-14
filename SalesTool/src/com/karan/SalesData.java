@@ -6,9 +6,11 @@ public class SalesData
 	
 	public void display()
 	{
+		System.out.println("-------------data------------------");
 		for(int i=0;i<data.length;i++)
 		{
-		 System.out.println("hello");
+		 System.out.println("display value"+data[i]);
+		 
 		}
 	}
 
