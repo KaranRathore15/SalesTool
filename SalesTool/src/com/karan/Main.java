@@ -6,6 +6,7 @@ public class Main
 	{
 		System.out.println("hello karan");
 		System.out.println("you have registered successfully");
+		System.out.println("hi bhanu");
 	}
 
 	public static void main(String[] args)
