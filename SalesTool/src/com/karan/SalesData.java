@@ -6,7 +6,10 @@ public class SalesData
 	
 	public void display()
 	{
-		System.out.println("jai shree krishna");
+		for(int i=0;i<data.length;i++)
+		{
+		 System.out.println("hello");
+		}
 	}
 
 }
